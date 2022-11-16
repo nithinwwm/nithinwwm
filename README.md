@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nithin_cn
+- 👀 I’m interested in DataScience / Machine Learning / AI 
+- 🌱 I’m currently learning Deep Neural Networks
+- 💞️ I’m looking to collaborate on NLP/ML projects
+- 📫 How to reach me /-- nithinwwm@gmail.com
